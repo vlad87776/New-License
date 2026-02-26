@@ -1,4 +1,4 @@
-# APEX (Author’s Permissive Evaluation eXcript)
+# APEX (Author’s Permissive Evaluation eXcript 1.0)
 
 **APEX** — это авторская лицензия, созданная для защиты свободы программного обеспечения и обеспечения доступности кода для всех пользователей.
 
