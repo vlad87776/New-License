@@ -1,0 +1,99 @@
+(Author’s Permissive Evaluation eXcript) [RU]
+
+1. ПРЕДЫСТОРИЯ (Preamble)
+Эта лицензия создана для того, чтобы гарантировать твою свободу делиться и изменять версии программы, обеспечивая её доступность для всех пользователей. В отличие от лицензий, которые отнимают свободу, APEX защищает право на использование и модификацию.
+
+2. ОПРЕДЕЛЕНИЯ (Definitions)
+
+«Программа» (The Program): Любая работа, защищенная авторским правом, выпущенная под этой Лицензией.
+
+«Вы» (You): Лицензиат, который может быть как частным лицом, так и организацией.
+
+«Модификация» (To modify): Копирование или адаптация всей или части работы способом, требующим разрешения автора. Результат называется «измененной версией.»
+
+«Передача» (To convey): Любая деятельность, которая позволяет другим сторонам получать или делать копии программы.
+
+3. ИСХОДНЫЙ КОД (Source Code)
+
+Под «исходным кодом» понимается предпочтительная форма работы для внесения в неё изменений.
+
+Всё, что не является исходным кодом, считается «объектным кодом.
+
+4. ОСНОВНЫЕ ПРАВА (Basic Permissions)
+
+Все права, предоставляемые этой Лицензией, выдаются на весь срок действия авторского права на Программу и являются безотзывными при соблюдении условий.
+
+Лицензия подтверждает ваше неограниченное право на запуск немодифицированной Программы.
+
+Вы можете создавать, запускать и распространять Программу, которую вы не передаете третьим лицам, без условий, пока ваша лицензия остается в силе.
+
+5. ПЕРЕДАЧА МОДИФИЦИРОВАННЫХ ВЕРСИЙ (Conveying Modified Versions)
+Вы можете передавать работу, основанную на Программе, в виде исходного кода при соблюдении следующих условий:
+
+Работа должна содержать заметные уведомления о том, что вы её изменили, с указанием даты.
+
+Вы должны лицензировать всю работу целиком на условиях данной Лицензии (APEX) для любого, кто вступает во владение копией.
+
+Лицензия будет применяться ко всей работе в целом и ко всем её частям, независимо от того, как они упакованы.
+
+6. ОТКАЗ ОТ ГАРАНТИЙ (Disclaimer of Warranty)
+
+ДАННАЯ ПРОГРАММА РАСПРОСТРАНЯЕТСЯ С НАДЕЖДОЙ, ЧТО ОНА БУДЕТ ПОЛЕЗНОЙ, НО БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ.
+
+В СТЕПЕНИ, ДОПУСТИМОЙ ЗАКОНОМ, ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ» (AS IS) БЕЗ КАКИХ-ЛИБО ОБЯЗАТЕЛЬСТВ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ.
+
+ВЕСЬ РИСК, СВЯЗАННЫЙ С КАЧЕСТВОМ И РАБОТОЙ ПРОГРАММЫ, ЛЕЖИТ НА ВАС.
+
+ЕСЛИ ПРОГРАММА ОКАЖЕТСЯ ДЕФЕКТНОЙ, ВЫ БЕРЕТЕ НА СЕБЯ РАСХОДЫ ПО ВСЕМУ НЕОБХОДИМОМУ ОБСЛУЖИВАНИЮ И РЕМОНТУ.
+
+7. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ (Limitation of Liability)
+
+НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ АВТОР НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ПЕРЕД ВАМИ ЗА УБЫТКИ, ВКЛЮЧАЯ ЛЮБЫЕ ОБЩИЕ, СПЕЦИАЛЬНЫЕ ИЛИ КОСВЕННЫЕ УЩЕРБЫ, ВОЗНИКШИЕ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ИЛИ НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ ПРОГРАММЫ.
+
+ЭТО ВКЛЮЧАЕТ, НО НЕ ОГРАНИЧИВАЕТСЯ, ПОТЕРЮ ДАННЫХ ИЛИ СБОИ В РАБОТЕ С ДРУГИМИ ПРОГРАММАМИ.
+
+APEX (Author’s Permissive Evaluation eXcript) [US]
+
+1. Preamble
+This license is designed to guarantee your freedom to share and change versions of the program, ensuring its accessibility for all users. Unlike licenses that take away freedom, APEX protects the right to use and modification.
+
+2. Definitions
+
+"The Program": Any work protected by copyright released under this License.
+
+
+"You": The licensee, who may be either an individual or an organization.
+
+
+"To modify": Copying or adapting all or part of the work in a manner that requires the author's permission. The result is called a "modified version".
+
+
+"To convey": Any activity that allows other parties to receive or make copies of the program.
+
+3. Source Code
+
+"Source code" refers to the preferred form of the work for making changes to it.
+
+Anything that is not source code is considered "object code".
+
+4. Basic Permissions
+All rights granted by this License are issued for the entire term of the copyright on the Program and are irrevocable provided the conditions are met.
+
+The license confirms your unlimited right to run the unmodified Program.
+
+You may create, run, and distribute the Program that you do not convey to third parties without conditions, as long as your license remains in force.
+
+5. Conveying Modified Versions
+You may convey a work based on the Program in the form of source code subject to the following conditions:
+
+The work must contain prominent notices stating that you changed it, specifying the date.
+
+You must license the entire work as a whole under the terms of this License (APEX) for anyone who comes into possession of a copy.
+
+The license will apply to the entire work as a whole and to all its parts, regardless of how they are packaged.
+
+6. Disclaimer of Warranty
+THIS PROGRAM IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY. TO THE EXTENT PERMITTED BY LAW, THE PROGRAM IS PROVIDED "AS IS" WITHOUT ANY OBLIGATIONS, EXPRESS OR IMPLIED. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING AND REPAIR.
+
+7. Limitation of Liability
+IN NO EVENT SHALL THE AUTHOR BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM. THIS INCLUDES, BUT IS NOT LIMITED TO, LOSS OF DATA OR FAILURES IN OPERATION WITH OTHER PROGRAMS.
